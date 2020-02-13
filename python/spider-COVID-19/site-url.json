@@ -1,0 +1,102 @@
+{
+	"country": [{
+		"country": "http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml"
+	}],
+	"mducg": [{
+			"beijing": "http://wjw.beijing.gov.cn/wjwh/ztzl/xxgzbd/gzbdyqtb/"
+		},
+		{
+			"shanghai": "http://wsjkw.sh.gov.cn/xwfb/index.html"
+		},
+		{
+			"chongqing": "http://wsjkw.cq.gov.cn/yqxxyqtb/"
+		},
+		{
+			"tianjin": "http://wsjk.tj.gov.cn/col/col87/"
+		}
+	],
+	"province": [{
+			"hebei": "http://wsjkw.hebei.gov.cn/index.do?cid=3714&templet=zt_gzfy_list"
+		},
+		{
+			"shan-xi": "http://wjw.shanxi.gov.cn/xingfew/index.hrh"
+		},
+		{
+			"liaoning": "http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/ "
+		},
+		{
+			"jilin": "http://www.jl.gov.cn/szfzt/jlzxd/yqtb/"
+		},
+		{
+			"heilongjiang": "http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/all.shtml?typeid=42&p=1"
+		},
+		{
+			"jiangsu": "http://wjw.jiangsu.gov.cn/col/col7290/index.html"
+		},
+		{
+			"zhejiang": "http://www.zjwjw.gov.cn/col/col1202194/ "
+		},
+		{
+			"anhui": "http://wjw.ah.gov.cn/news_list_477_1.html"
+		},
+		{
+			"fujian": "http://wjw.fujian.gov.cn/xxgk/gzdt/wsjsyw/"
+		},
+		{
+			"jiangxi": "http://hc.jiangxi.gov.cn/xwzx/wjxw/index.shtml"
+		},
+		{
+			"shandong": "http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/index.html"
+		},
+		{
+			"henan": "http://www.hnwsjsw.gov.cn/channels/854_2.shtml"
+		},
+		{
+			"hubei": "http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/ "
+		},
+		{
+			"hunan": "http://wjw.hunan.gov.cn/wjw/qwfb/yqfkgz_list.html"
+		},
+		{
+			"guangdong": "http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/"
+		},
+		{
+			"hainan": "http://wst.hainan.gov.cn/swjw/rdzt/yqfk/"
+		},
+		{
+			"sichuan": "http://wsjkw.sc.gov.cn/scwsjkw/gggs/tygl.shtml"
+		},
+		{
+			"guizhou": "http://www.gzhfpc.gov.cn/ztzl_500663/xxgzbdgrdfyyqfk/yqdt/"
+		},
+		{
+			"yunnan": "http://ynswsjkw.yn.gov.cn/wjwWebsite/web/col?id=UU157976428326282067&cn=xxgzbd&pcn=ztlm&pid=UU145102906505319731"
+		},
+		{
+			"shanvxi": "http://sxwjw.shaanxi.gov.cn/col/col863/"
+		},
+		{
+			"gansu": "http://wsjk.gansu.gov.cn/channel/11218/"
+		},
+		{
+			"qinghai": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/"
+		}
+	],
+	"ar": [{
+			"guangxi": "http://wsjkw.gxzf.gov.cn/xxgks/yqxx/ssyqdt/"
+		},
+		{
+			"xizang": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/"
+		},
+		{
+			"xinjiang": "http://www.xjhfpc.gov.cn/ztzl/fkxxgzbdfygz/yqtb.htm"
+		},
+		{
+			"neimenggu": "http://wjw.nmg.gov.cn/ztlm/2016n/xxgzbdgrdfyyqfk/yqtb/"
+		},
+		{
+			"ningxia": "http://wsjkw.nx.gov.cn/yqfkdt/yqsd1.htm"
+		}
+	]
+
+}
