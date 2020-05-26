@@ -3,4 +3,6 @@
 **/bin
 **/lib
 **/include
+**/share
 **/.Python
+**/pyvenv.cfg
