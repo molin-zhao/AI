@@ -6,3 +6,4 @@
 **/share
 **/.Python
 **/pyvenv.cfg
+!*.ipynb
